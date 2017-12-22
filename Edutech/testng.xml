@@ -3,8 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="com.edutech.script.LoginOpt"/>
-      <class name="com.edutech.script.InvalidLoginCredentials"/>
+      
       <class name="com.edutech.script.TestDemo"/>
      
       <class name="com.edutech.script.ValidLoginLogout"/>
