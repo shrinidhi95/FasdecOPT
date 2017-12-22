@@ -1,0 +1,9 @@
+<suite name="test">
+<test name="Gmailtest">
+
+	<parameter name="browserName" value="chrome"/>
+	<classes>
+		<class name="com.edutech.script.LoginOpt"/>
+	</classes>
+</test>
+</suite>
